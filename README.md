@@ -18,7 +18,7 @@ Instead of creating separate applications for every idea, Chinmaya Lab provides 
 
 The first MVP focuses on creating a professional web-based product platform with:
 
-- Modular feature architecture
+- Modular feature architectures
 - Clean SaaS-style UI
 - Scalable backend foundation
 - User dashboard
