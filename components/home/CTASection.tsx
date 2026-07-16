@@ -17,7 +17,7 @@ export default function CTASection() {
           font-bold
           "
         >
-          Ready to explore Chinmaya Lab?
+          Ready to explore  Lab?
         </h2>
 
 

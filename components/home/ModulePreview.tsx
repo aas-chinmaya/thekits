@@ -29,7 +29,7 @@ export default function ModulePreview() {
 
 
         <p className="mt-3 text-muted-foreground">
-          Explore products built inside Chinmaya Lab.
+          Explore products built inside  Lab.
         </p>
 
       </div>
